@@ -2,7 +2,7 @@
 import random
 playCount = 0
 while True:
-	print("Welcome to who wants to be a millionare")
+	print'("Welcome to who wants to be a millionare")'
 	print("Im your host, Pineapple!!!")
 	print("P.S.: I took Chris Tarrant's job!!!")
 	print("Press 1 to play and 2 to quit")
